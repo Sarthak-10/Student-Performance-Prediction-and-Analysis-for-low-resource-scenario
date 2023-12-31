@@ -1,7 +1,8 @@
 # Student-Performance-Prediction-and-Analysis-for-low-resource-scenario
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Project_code.ipynb)
 
 :star:**Please star the repository if you happen to like the project**
+
 It is important to develop Student Performance 
 prediction software. It helps educational entities 
 and institutes in understanding the shortcomings 
